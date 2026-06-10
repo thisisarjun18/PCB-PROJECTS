@@ -1,0 +1,78 @@
+# Transformerless AC to DC Converter PCB Design
+
+## Overview
+
+This project is a PCB design of a Transformerless AC to DC Converter developed using KiCad 10. The circuit converts AC input into regulated DC output using a capacitive dropper, bridge rectifier, filtering capacitors, and a voltage regulator.
+
+The project was created to gain practical experience in schematic design, PCB layout, component placement, routing, ground plane implementation, and design verification.
+
+---
+
+## Features
+
+* Transformerless AC to DC conversion
+* Full-wave bridge rectifier using four diodes
+* Capacitive dropper power supply design
+* DC filtering using electrolytic capacitors
+* Voltage regulation stage
+* LED power indication
+* Ground plane implementation
+* Through-hole component design
+* DRC verified PCB layout
+
+---
+
+## Components Used
+
+* Terminal Block Connectors
+* Capacitive Dropper Capacitor
+* Bridge Rectifier Diodes (D1-D4)
+* Filter Capacitors
+* Resistors
+* LED Indicator
+* Voltage Regulator
+* PCB Ground Plane
+
+---
+
+## Software Used
+
+* KiCad 10
+* KiCad PCB Editor
+* KiCad 3D Viewer
+
+---
+
+## Project Files
+
+* Schematic Diagram
+* PCB Layout
+* 3D PCB Model
+* STEP Models
+* Project Source Files (.kicad_pro, .kicad_sch, .kicad_pcb)
+
+---
+
+## PCB Design Highlights
+
+* Single-board power supply design
+* Copper ground plane implementation
+* Optimized component placement
+* Through-hole footprint selection
+* Design Rule Check (DRC) completed successfully
+* 3D visualization for mechanical verification
+
+---
+
+## Learning Outcomes
+
+Through this project, I learned:
+
+* AC to DC conversion fundamentals
+* Bridge rectifier operation
+* Capacitor filtering techniques
+* Voltage regulation concepts
+* PCB routing and layout practices
+* Ground plane design
+* KiCad project workflow
+* PCB verification using DRC
